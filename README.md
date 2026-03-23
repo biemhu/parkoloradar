@@ -1,6 +1,5 @@
-# parkoloradar
+# Intelligens Parkolóasszisztens Rendszer
 
-Intelligens Parkolóasszisztens Rendszer
 Készítette: Balogh Martin
 ________________________________________
 1. Bevezetés
