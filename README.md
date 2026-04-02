@@ -43,6 +43,8 @@ ________________________________________
 # 5.	Tinkercad link | Kód
 [Intelligens Parkolóasszisztens Rendszer] (https://www.tinkercad.com/things/152hcNtW7Aw-intelligens-parkoloradar?sharecode=hUeobfc7fTpdt_t-G1C3DV8OTxNck9J3OOOi1Shyx4Q)
 
+#Kód: 
+```
  #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(12, 11, 7, 6, 5, 4);
@@ -117,6 +119,7 @@ void loop() {
 
   delay(20);
 }
+```
 
 # 6. Összegzés
 A projekt sikeresen demonstrálja a mikrokontrollerek alkalmazhatóságát a vezetéstámogató rendszerekben. A prototípus költséghatékony, moduláris és továbbfejleszthető.
